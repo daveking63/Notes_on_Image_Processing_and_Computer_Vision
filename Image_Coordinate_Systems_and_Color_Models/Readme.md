@@ -21,4 +21,5 @@ Table of Contents
          <li>3.5 Converting Color or Grayscale Images to Black and White (binary)</li>
          <li>3.6 Inverting from Black on White to White on Black</li>
         </ul>
+        <li>4. Saving an Image to Disk</li>
     </ul>
