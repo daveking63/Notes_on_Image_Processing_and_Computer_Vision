@@ -1,4 +1,4 @@
- Notebook: Image Coordinate Systems and Color Models
+<b>Notebook: Image Processing with Python: Coordinates and Colors</b>
     
 Table of Contents
     <ul>
