@@ -20,22 +20,22 @@ Table of Contents
         </ul>
         <li>3. Color Models and Spaces</li>
         <ul>
-           <li>RGB Color Model</li>
-           <li>RGB Color Channels</li>
-           <li>Combining RGB Color Channels</li>
-           <li>Other Color Models and Spaces</li>
-           <li>RGB Variants - BRG and RGBA</li>
-           <li>CMYK Color Model and Space</li>
-           <li>HSV Color Model and Space</li>
-           <li>Converting RGB Images to Grayscale Images</li>
-               <li>Converting RGB Images to Grayscale Images with a Weighted Average</li>
-               <li>Converting RGB images to Grayscale images using skimage</li>
-               <li>Converting RGB Images to Grayscale Images using cv2</li>
-               <li>Converting RGB Images to Grayscale Images using PIL</li>
-           <li>Comparing the various Grayscale conversion methods</li>
-           <li>Converting Color or Grayscale Images to Black and White (binary)</li>
-                <li>Inverting from Black-on-White to White-on-Black</li>
-           <li>Additional color models and their conversion</li>
+           <li>3.1 RGB Color Model</li>
+               <li>3.1.1 RGB Color Channels</li>
+               <li>3.1.2 Combining RGB Color Channels</li>
+           <li>3.2 Other Color Models and Spaces</li>
+               <li>3.2.1 RGB Variants - BRG and RGBA</li>
+               <li>3.2.2 CMYK Color Model and Space</li>
+               <li>3.2.3 HSV Color Model and Space</li>
+               <li>3.2.4 Converting RGB Images to Grayscale Images</li>
+                   <li>3.2.4.1 Converting RGB Images to Grayscale Images with a Weighted Average</li>
+                   <li>3.2.4.2 Converting RGB images to Grayscale images using skimage</li>
+                   <li>3.2.4.3 Converting RGB Images to Grayscale Images using cv2</li>
+                   <li>3.2.4.4 Converting RGB Images to Grayscale Images using PIL</li>
+                   <li>3.2.4.5 Comparing the various Grayscale conversion methods</li>
+               <li>3.2.5. Converting Color or Grayscale Images to Black and White (binary)</li>
+                    <li>3.2.5.1 Inverting from Black-on-White to White-on-Black</li>
+               <li>3.2.6 Additional color models and their conversion</li>
         </ul>
         <li>4. Saving an Image to Disk</li>
     </ul>
