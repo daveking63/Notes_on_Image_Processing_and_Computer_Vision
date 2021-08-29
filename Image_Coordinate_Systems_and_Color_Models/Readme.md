@@ -2,6 +2,7 @@
     
 Table of Contents
     <ul>
+        <li>0. Initial Setup</li>
         <li>1. What is Image Processing</li>
             <ul>
                 <li>1.1 What is an Image</li>
@@ -12,10 +13,9 @@ Table of Contents
                 <li>2.2 Python Image Coordinate Systems</li>
                 <li>2.3 Exploring the Coordinate System with Python Image Processing Libraries</li>
                     <ul>
-                        <li>2.3.1 General Settings: Common Libraries</li>
-                        <li>2.3.2 skimage Coordinate System</li>
-                        <li>2.3.3 cv2 Coordinate System</li>
-                        <li>2.3.4 PIL Coordinate System</li>
+                        <li>2.3.1 skimage Coordinate System</li>
+                        <li>2.3.2 cv2 Coordinate System</li>
+                        <li>2.3.3 PIL Coordinate System</li>
                     </ul>  
             </ul>
         <li>3. Color Models and Spaces</li>
