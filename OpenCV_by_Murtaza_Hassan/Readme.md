@@ -1,1 +1,0 @@
-This is a port of a OpenCV tutorial by Murtaza Hassan covering selected aspects of the library and supported by a number of python files. In this version the materials have been converted to a Jupyter Notebook.
