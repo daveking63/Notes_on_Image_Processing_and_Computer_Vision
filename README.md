@@ -9,5 +9,7 @@ A series of interrelated Jupyter (iPython) notebooks focused on image processing
   </li>
   <li><a href= "https://nbviewer.jupyter.org/github/daveking63/Notes_on_Image_Processing_and_Computer_Vision/blob/main/Drawing_Shapes_on_Images/notes_for_image_processing_drawing_basic_shapes_git_version2.ipynb">Drawing Basic Shapes on Images</a>
   </li>
+  <li><a href=    "https://nbviewer.org/github/daveking63/Notes_on_Image_Processing_and_Computer_Vision/blob/main/Image_Arithmetic/Notes_for_Image_Processing_Arithmetic_Operations.ipynb">Image Arithmetic</a>
+  </li>
 </ol>
 
